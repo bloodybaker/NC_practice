@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="Yevnehii" groupnumber="IN-81" lastname="Chykalov">
+        <subject mark="4" title="OKT"/>
+        <subject mark="4" title="Programming"/>
+        <subject mark="5" title="Data science"/>
+        <average>4.3</average>
+    </student>
+    <student firstname="Danil" groupnumber="IN-81" lastname="Kuzmuk">
+        <subject mark="5" title="OKT"/>
+        <subject mark="5" title="Programming"/>
+        <subject mark="5" title="Data science"/>
+        <average>5.0</average>
+    </student>
+</group>

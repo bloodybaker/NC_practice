@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datasources SYSTEM "C:\Admin\Desktop\NC_practice\database\dataSource.dtd">
+<datasources>
+    <datasource>
+        <source-name></source-name>
+        <connection-url>jdbc:oracle:thin:@176.108.235.133:1521:XE</connection-url>
+        <driver-class>oracle.jdbc.OracleDriver</driver-class>
+        <user-name>student</user-name>
+        <password>student</password>
+    </datasource>
+</datasources>
